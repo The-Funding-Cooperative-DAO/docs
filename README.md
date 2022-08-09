@@ -9,7 +9,6 @@ Many of us _are_ founders -- and have _personally_ experienced the challenges of
 starting companies, open-source projects, and DAOs. At the Funding Cooperative
 DAO we do NOT solve all of these challenges.
 
-This repository contains sources for our documentation project, which you can find at FIXME.
 =======
 
 The Funding Cooperative DAO is a new approach to help founders while increasing dramatically the number of qualified web3 founders. Founders and DAOs accepted as members of the Funding Cooperative DAO receive a shared token in return for a small portion of their tokens. This creates diversification, jump-starts community creation, and provides some liquidity as well.  Gains are recycled into outreach and education, focusing especially on underrepresented groups. &#x20;
